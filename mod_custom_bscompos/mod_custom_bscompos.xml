@@ -60,8 +60,8 @@
 					<option value="popover">MOD_CUSTOM_BSCOMPOS_OPTION_POPOVER</option>
 					<option value="scrollspy">MOD_CUSTOM_BSCOMPOS_OPTION_SCROLLSPY</option>
 					<option value="tab">MOD_CUSTOM_BSCOMPOS_OPTION_TAB</option>
-					<option value="tooltip">MOD_CUSTOM_BSCOMPOS_OPTION_TOOLTIP</option>
 					<option value="toast">MOD_CUSTOM_BSCOMPOS_OPTION_TOAST</option>
+					<option value="tooltip">MOD_CUSTOM_BSCOMPOS_OPTION_TOOLTIP</option>
 				</field>
 			</fieldset>
 			<fieldset name="advanced">

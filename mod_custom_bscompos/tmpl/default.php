@@ -21,7 +21,7 @@ if (!empty($bscompos))
 				\Joomla\CMS\HTML\HTMLHelper::_('bootstrap.alert', '.alert');
 				break;
 			case 'button':
-				\Joomla\CMS\HTML\HTMLHelper::_('bootstrap.button', '.btn');
+				\Joomla\CMS\HTML\HTMLHelper::_('bootstrap.button', '.selector');
 				break;
 			case 'carousel':
 				\Joomla\CMS\HTML\HTMLHelper::_('bootstrap.carousel', '.selector', []);
@@ -54,7 +54,7 @@ if (!empty($bscompos))
 				\Joomla\CMS\HTML\HTMLHelper::_('bootstrap.tooltip', 'a', []);
 				break;
 			case 'toast':
-				\Joomla\CMS\HTML\HTMLHelper::_('bootstrap.toast', '.selector', []);
+				\Joomla\CMS\HTML\HTMLHelper::_('bootstrap.toast', '.toast', []);
 				break;
 			default:
 				// do nothing
